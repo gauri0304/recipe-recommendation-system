@@ -1,0 +1,68 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-image: url("https://img.freepik.com/free-photo/top-close-up-view-spices-spices-bottle-oil-tomatoes-lemon-sauce-cream-notebook_140725-71779.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    text-align: center;
+    line-height: 1.6;
+}
+
+.container {
+    background: rgba(0, 0, 0, 0.7);
+    padding: 20px;
+    margin: 50px auto;
+    border-radius: 10px;
+    max-width: 800px;
+}
+
+h1 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.header-gif {
+    height: 40px;
+    border-radius: 5px;
+    box-shadow: 0 0 8px rgba(255, 255, 255, 0.3);
+    transition: transform 0.3s ease-in-out;
+}
+
+.header-gif:hover {
+    transform: scale(1.1);
+}
+
+textarea, input[type="submit"] {
+    width: 60%;
+    padding: 2px;
+    margin-top: 10px;
+    font-size:1rem;
+}
+
+input[type="submit"] {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    margin: 15px;
+    padding: 5px;
+}
+
+input[type="submit"]:hover {
+    background-color: #45a049;
+}
+
+.results {
+    margin-top: 20px;
+    text-align: left;
+}
+
+.error, .message {
+    color: #ff6b6b;
+    font-size: 1.2rem;
+}

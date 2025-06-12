@@ -1,0 +1,65 @@
+RecipeName,Ingredients,Instructions
+Pancakes,"flour, eggs, milk, sugar",Mix all ingredients and fry on a pan.
+Omelette,"eggs, milk, cheese","Whisk eggs and milk, cook in a pan with cheese."
+Pasta,"pasta, tomatoes, garlic, olive oil","Cook pasta, make sauce with tomatoes and garlic."
+Garlic Bread,"bread, garlic, butter",Spread garlic butter on bread and bake.
+Salad,"lettuce, tomatoes, cucumber, olive oil",Chop vegetables and mix with olive oil.
+Fried Rice,"rice, eggs, peas, soy sauce","Stir-fry rice with eggs and peas, add soy sauce."
+Tacos,"tortillas, beef, cheese, lettuce, salsa","Fill tortillas with beef, cheese, and toppings."
+Smoothie,"banana, yogurt, honey, milk",Blend all ingredients until smooth.
+Chocolate Cake,"flour, sugar, cocoa powder, eggs, butter",Mix ingredients and bake in the oven.
+Chicken Curry,"chicken, curry powder, coconut milk, rice","Cook chicken with curry powder and coconut milk, serve with rice."
+Vegetable Stir Fry,"mixed vegetables, soy sauce, garlic",Stir-fry vegetables with garlic and soy sauce.
+Quiche,"eggs, cream, cheese, pie crust","Mix eggs and cream, pour into crust, bake until set."
+Minestrone Soup,"vegetables, pasta, beans, broth",Simmer vegetables and pasta in broth until cooked.
+Grilled Cheese,"bread, cheese, butter","Butter bread, place cheese in between, grill until golden."
+Tomato Soup,"tomatoes, garlic, onion, broth","Blend tomatoes, garlic, and onion; simmer in broth."
+Banana Bread,"flour, sugar, bananas, eggs, butter","Mash bananas, mix with other ingredients, bake until golden."
+Scrambled Eggs,"eggs, milk, butter, salt","Whisk eggs and milk, cook with butter, season with salt."
+Beef Stew,"beef, potatoes, carrots, onion, broth",Simmer beef with vegetables and broth until tender.
+Mac and Cheese,"pasta, cheese, milk, butter",Cook pasta and mix with melted cheese and milk.
+Chicken Soup,"chicken, carrots, celery, broth",Simmer chicken and vegetables in broth until cooked.
+Cheeseburger,"beef, bun, cheese, lettuce, tomato","Grill beef patty, place on bun with cheese and toppings."
+Cabbage Salad,"cabbage, carrots, mayonnaise, vinegar","Chop cabbage and carrots, mix with dressing."
+Lemonade,"lemons, sugar, water","Mix lemon juice, sugar, and water."
+Fish Tacos,"fish, tortillas, cabbage, salsa, lime","Grill fish, fill tortillas with fish, cabbage, and salsa."
+Avocado Toast,"bread, avocado, salt, pepper","Spread mashed avocado on toasted bread, season."
+Vegetable Soup,"carrots, potatoes, celery, broth, onion",Simmer vegetables in broth until tender.
+Chicken Salad,"chicken, lettuce, tomatoes, cucumber, mayonnaise",Mix chicken with vegetables and dressing.
+Bruschetta,"bread, tomatoes, garlic, olive oil","Top toasted bread with tomatoes, garlic, and olive oil."
+Spaghetti Bolognese,"pasta, beef, tomatoes, garlic, onion",Cook pasta and beef with tomato sauce.
+Egg Salad,"eggs, mayonnaise, mustard, salt, pepper",Mix chopped eggs with mayonnaise and seasonings.
+Tuna Sandwich,"bread, tuna, mayonnaise, lettuce",Fill bread with tuna mixed with mayonnaise and lettuce.
+Apple Pie,"apples, sugar, flour, butter, cinnamon","Fill pie crust with apples, sugar, and cinnamon; bake."
+Chicken Parmesan,"chicken, breadcrumbs, cheese, tomato sauce, pasta","Bread chicken, bake with tomato sauce and cheese."
+Curry Lentils,"lentils, curry powder, coconut milk, tomatoes",Simmer lentils with curry powder and coconut milk.
+Vegetable Curry,"potatoes, carrots, peas, curry powder, coconut milk",Cook vegetables in curry sauce with coconut milk.
+Shrimp Stir Fry,"shrimp, mixed vegetables, soy sauce, garlic",Stir-fry shrimp and vegetables with soy sauce.
+Baked Salmon,"salmon, lemon, garlic, olive oil, dill","Bake salmon with lemon, garlic, and dill."
+Caesar Salad,"lettuce, croutons, parmesan, Caesar dressing","Mix lettuce with dressing, top with croutons and parmesan."
+Zucchini Bread,"zucchini, flour, sugar, eggs, butter","Mix grated zucchini with ingredients, bake until golden."
+Carrot Soup,"carrots, onion, ginger, broth, cream",Simmer carrots and blend with broth and cream.
+Pumpkin Pie,"pumpkin, sugar, eggs, cream, cinnamon","Fill crust with pumpkin mixture, bake until set."
+Beef Tacos,"beef, tortillas, lettuce, cheese, salsa","Cook beef, fill tortillas with toppings."
+Coleslaw,"cabbage, carrots, mayonnaise, vinegar, sugar",Mix cabbage and carrots with dressing.
+Falafel Wrap,"chickpeas, garlic, onion, parsley, tortillas","Bake falafel balls, serve in tortillas with vegetables."
+Lamb Curry,"lamb, curry powder, tomatoes, coconut milk",Simmer lamb in curry sauce until tender.
+Vegetable Lasagna,"pasta, cheese, spinach, tomatoes, zucchini","Layer pasta with vegetables and cheese, bake."
+Berry Smoothie,"strawberries, blueberries, yogurt, honey, milk",Blend all ingredients until smooth.
+Chocolate Brownies,"chocolate, butter, sugar, eggs, flour",Mix ingredients and bake until fudgy.
+French Toast,"bread, eggs, milk, sugar, cinnamon","Dip bread in egg mixture, fry until golden."
+Roasted Vegetables,"carrots, potatoes, zucchini, olive oil, rosemary",Bake vegetables with olive oil and rosemary.
+Mashed Potatoes,"potatoes, butter, milk, salt","Mash boiled potatoes with butter and milk, season."
+Frittata,"eggs, spinach, cheese, tomatoes, onions",Bake eggs with vegetables and cheese.
+Stuffed Bell Peppers,"bell peppers, rice, beef, tomatoes, cheese","Fill peppers with rice, beef, and tomatoes, bake."
+Chicken Burrito,"tortilla, chicken, rice, beans, salsa","Wrap chicken, rice, and beans in a tortilla."
+Caprese Salad,"tomatoes, mozzarella, basil, olive oil, balsamic","Layer tomatoes with mozzarella and basil, drizzle with oil."
+Ratatouille,"eggplant, zucchini, tomatoes, garlic, olive oil",Bake vegetables with garlic and olive oil.
+Grilled Vegetables,"zucchini, eggplant, peppers, olive oil",Grill vegetables with olive oil until tender.
+Stuffed Mushrooms,"mushrooms, cheese, breadcrumbs, garlic","Stuff mushrooms with cheese and breadcrumbs, bake."
+Spinach Omelette,"eggs, spinach, cheese, milk",Cook eggs with spinach and cheese.
+Roasted Chicken,"chicken, garlic, rosemary, olive oil, lemon",Roast chicken with garlic and rosemary.
+Seafood Paella,"rice, shrimp, mussels, peas, saffron","Cook rice with seafood, saffron, and vegetables."
+Vegetable Burger,"beans, breadcrumbs, onions, lettuce, bun","Make patties with beans, grill, and serve in a bun."
+Guacamole,"avocado, tomatoes, onion, lime, salt",Mash avocado with tomatoes and lime.
+Stuffed Zucchini,"zucchini, rice, tomatoes, cheese, garlic","Fill zucchini with rice and tomatoes, bake until tender."
